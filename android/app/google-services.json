@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785348897511",
+    "project_id": "grid-prod-1ff7a",
+    "storage_bucket": "grid-prod-1ff7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785348897511:android:526a70514f2a0d7e939042",
+        "android_client_info": {
+          "package_name": "co.dasas.grid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785348897511-nlrlood50f1ss7g5rb1itnln1nbvt422.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhF5gyAs7sYERV7TySpjh_qLBauoKijlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785348897511-nlrlood50f1ss7g5rb1itnln1nbvt422.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
